@@ -21,4 +21,4 @@
 
 ##
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielscirino&layout=compact&langs_count=7&theme=flag-india&border_radius=0"/>
+<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielscirino&layout=compact&langs_count=7&theme=flag-india&border_radius=0"/>
