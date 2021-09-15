@@ -14,12 +14,10 @@
 
 <div style="display: inline_block">
   <p><b>Languages:</b></p>
-  <a href="https://www.python.org/"><img alt="Python icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-
-##
-  
-  <p><b>Learning:</b></p>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href="https://github.com/elielscirino"><img alt="Python icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+  <a href="https://github.com/elielscirino"><img alt="HTML icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+  <a href="https://github.com/elielscirino"><img alt="CSS icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+  <a href="https://github.com/elielscirino"><img alt="JavaScript icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+  <a href="https://github.com/elielscirino"><img alt="JavaScript icon" width='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
 </div>
+
