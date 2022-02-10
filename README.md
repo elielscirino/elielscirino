@@ -5,7 +5,7 @@ class ProgrammingStudent:
 
   def __init__(self):
     self.name = 'Eliel Cirino'
-    self.idade = 18
+    self.age = 18
     self.country = 'Brazil'
     self.languages = ['Python', 'Java', 'C++', 'JavaScript', 'HTML', 'CSS']
     
