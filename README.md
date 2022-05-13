@@ -7,7 +7,8 @@ class ProgrammingStudent:
     self.name = 'Eliel Cirino'
     self.age = 18
     self.country = 'Brazil'
-    self.languages = ['Python', 'Java', 'C++', 'JavaScript', 'HTML', 'CSS']
+    self.languages = ['Python', 'Java', 'JavaScript', 'HTML', 'CSS']
+    self.studying = ['C++']
     
     
   def procrastinate(self):
