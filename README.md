@@ -8,6 +8,7 @@ class ProgrammingStudent:
     self.age = 19
     self.country = 'Brazil'
     self.languages = ['Python', 'Java', 'JavaScript', 'HTML', 'CSS']
+    self.frameworks = ['Vue.js']
     self.studying = ['C++']
     
     
