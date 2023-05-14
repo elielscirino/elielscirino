@@ -13,9 +13,11 @@
     "reactjs",
     "expressjs",
   },
+  "databases": {
+    "mysql"
+  },
   "tools": {
     "nodejs",
-    "mysql",
     "git"
   }
 }
